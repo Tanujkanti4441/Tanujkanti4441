@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujkanti4441&label=Profile%20views&color=0e75b6&style=flat" alt="tanujkanti4441" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Agorithms**
+- 🌱 I’m currently learning **Data Structures and Agorithms**
 
 - 💬 Ask me about **React, MERN, Web Devlopment**
 
-- 📫 How to reach me **tanujkanti@4441@gmail.com**
+- 📫 How to reach me **tanujkanti4441@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
